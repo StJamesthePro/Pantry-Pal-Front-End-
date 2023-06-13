@@ -8,8 +8,6 @@
     flex-wrap: wrap;
     justify-content: center;
 
-    /* justify-content: space-evenly; */
-
 }
 
 .inventoryItems,
@@ -21,15 +19,10 @@
     justify-content: center;
     gap: 20px;
     position: relative;
-    /* opacity: 0; */
     transition: opacity 0.8s ease;
-
-}
-
-.inventoryItems,
-.inventoryItemsNearExpiration {
     position: relative;
     overflow: hidden;
+
 }
 
 .inventoryItems.animate,

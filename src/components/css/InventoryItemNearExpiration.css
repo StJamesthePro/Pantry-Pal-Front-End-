@@ -8,7 +8,8 @@
     padding: 5px;
     box-shadow: 4px 4px red;
 }
-.itemHeader{
+
+.itemHeader {
     display: flex;
     justify-content: space-around;
     font-size: large;
@@ -16,7 +17,7 @@
     background-color: #ffd8a9;
 }
 
-.imageWrapper{
+.imageWrapper {
     max-width: 100px;
 }
 
